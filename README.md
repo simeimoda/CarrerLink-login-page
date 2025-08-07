@@ -6,3 +6,12 @@ This is a prototype login page made with html and css, which simulates a profess
 
 ## How to Run
 Clone the repository and open `login.html` in a browser.
+
+## Screenshot
+### Desktop Screen
+
+![Portfolio Screenshot](assets/screenshot01.png)
+
+### Mobile Screen
+
+![Portfolio Screenshot](assets/screenshot02.png)
